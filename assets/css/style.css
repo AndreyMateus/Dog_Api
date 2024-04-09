@@ -19,14 +19,14 @@ h1 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 1em;
+    gap: 0.5em;
 }
 
 .btn-random-dog {
     background-color: antiquewhite;
     font-size: 1.8em;
     border-radius: 5px;
-    padding: 1.2em;
+    padding: 0.5em;
 }
 
 .btn-random-dog:hover {
